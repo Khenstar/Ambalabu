@@ -274,3 +274,8 @@ span{
     justify-items: center;
 
 }
+.canva{
+    padding-top: 20px;
+    position: relative;
+    size: 50%;
+}
